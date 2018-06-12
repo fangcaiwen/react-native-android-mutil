@@ -1,0 +1,13 @@
+{
+  "name": "react-native-android-util",
+  "version": "0.1.0",
+  "description": "React-Native Android Util Component",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.intebox.com:react_native/component/react-native-android-util.git"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.33"
+  },
+  "author": "Unovo"
+}
