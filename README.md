@@ -9,6 +9,7 @@ dependencies{
   compile project(path: ':react-native-android-util')
 }，
 
+
 3.再到MainApplication下添加
  @Override
     protected List<ReactPackage> getPackages() {
@@ -20,9 +21,11 @@ dependencies{
     }
   ,在编译下android这个项目。
   
+  
  4.再到rn里你想使用的地方：
  import Util from 'react-native-android-util';
  ...
+ 
  
 5. 调用
  
