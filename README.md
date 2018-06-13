@@ -7,6 +7,7 @@
 dependencies{
   ...
   compile project(path: ':react-native-android-util')
+  
 }，
 
 
