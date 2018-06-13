@@ -29,3 +29,4 @@ dependencies{
   Util.getVerSionCode((versionCode)=>{
       //versionCode 就是当前android版本的版本号啦
     });
+    
